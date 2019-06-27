@@ -1,0 +1,7 @@
+{
+    "require": {
+        "gufy/pdftohtml-php":"~2",
+        "wrseward/pdf-parser": "^0.1.0",
+        "clegginabox/pdf-merger": "dev-master"
+    }
+}
